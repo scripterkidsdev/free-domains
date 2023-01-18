@@ -2,7 +2,7 @@
   "$schema": "../schemas/domain.schema.json",
   "description": "BloxyHub",
   "domain": "is-an.app",
-  "subdomain": "<your subdomain name>",
+  "subdomain": "bloxyhub",
   "owner": {
     "repo": "https://github.com/scripterkidsdev/site",
     "email": "mcillioglus@gmail.com"
